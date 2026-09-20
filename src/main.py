@@ -4,7 +4,7 @@ from report_manager import generate_report
 
 def menu():
     while True:
-        print("\n===== Library Management System =====")
+        print ("\n= BrightPage Library System =")
         print("1. Add Book")
         print("2. View Books")
         print("3. Search Book")
